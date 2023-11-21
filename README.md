@@ -20,4 +20,4 @@ Users can interact with the Password Checker by inputting passwords through the 
 
 Feel free to customize this description based on your preferences and any additional features you might implement in the future.
 
-F
+
