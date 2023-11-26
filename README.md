@@ -18,6 +18,6 @@ Users can interact with the Password Checker by inputting passwords through the 
 2. Run the password-checker script.
 3. Input a password and receive feedback on their strength.
 
-Feel free to customize this description based on your preferences and any additional features you might implement in the future.
+
 
 
